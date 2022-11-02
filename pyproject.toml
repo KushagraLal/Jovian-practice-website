@@ -2,7 +2,7 @@
 name = "repl_nix_Jovian-practice-website"
 version = "0.1.0"
 description = ""
-authors = ["Replit user <<>>"]
+authors = ["Kushagra <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
